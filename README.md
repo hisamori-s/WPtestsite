@@ -1,0 +1,2 @@
+# WPtestsite
+WordPressテーマ作成
